@@ -12,11 +12,11 @@ This project aims to infer the effectiveness of the different COVID-19 vaccines 
 ## Data
 
 Our data source consist in clinical data from the EMA for the following vaccines: 
-- Comirnaty
-- Nuvaxovid
-- Spikevax
-- Ronapreve
-- Xevudy
+- [Comirnaty](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
+- [Nuvaxovid](https://www.ema.europa.eu/en/medicines/human/EPAR/nuvaxovid)
+- [Spikevax](https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax-previously-covid-19-vaccine-moderna)
+- [Ronapreve](https://www.ema.europa.eu/en/medicines/human/EPAR/ronapreve)
+- [Xevudy](https://www.ema.europa.eu/en/medicines/human/EPAR/xevudy)
 
 For the first three vaccines the study includes the number of symptomatic COVID-19 cases in both vaccinated and placebo groups. Meanwhile, for Ronapreve and Xevudy vaccines the effectiveness is calculated as a treatment to already infected patients so it includes the number of patients who needed hospitalization in both vaccinated and placebo groups.
 
