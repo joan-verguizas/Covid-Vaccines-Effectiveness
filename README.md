@@ -28,7 +28,7 @@ Bayesian Model: The model developed assumes the infection/hospitalization rate a
 
 Posterior Sampling: The posterior distributions of vaccine effectiveness are estimated using rjags, a tool for Bayesian analysis that leverages Gibbs sampling. This method allows for uncertainty quantification, providing not just point estimates but full posterior distributions of the symptomatic covid/hospilazation rate for both vaccinated and placebo individuals.
 
-Effectiveness Estimate: The vaccine effectiveness is derived by comparing the infection probabilities between vaccinated and placebo groups. The posterior distribution of this effectiveness is used to generate the 95% credibility interval and make probabilistic statements about each vaccine's efficacy.
+Effectiveness Estimate: The vaccine effectiveness is derived by comparing the symptomatic COVID/hospitalization rates between vaccinated and placebo groups. The posterior distribution of this effectiveness is used to generate the 95% credibility interval and make probabilistic statements about each vaccine's efficacy.
 
 ## Conclusion
 
