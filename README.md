@@ -9,6 +9,8 @@ This project was developed as part of the final exam for the Advanced Statistics
 
 This project aims to infer the effectiveness of the different COVID-19 vaccines by analyzing clinical trial data provided by the European Medicines Agency (EMA). Using a Bayesian approach, the project models vaccine efficacy in different setups in both vaccinated and placebo groups. The primary goal is to quantify the effectiveness of each vaccine while accounting for uncertainty in the data. The entire analysis is conducted in a single Jupyter Notebook, using rjags to perform Bayesian inference via Markov Chain Monte Carlo (MCMC) sampling.
 
+After these first analysis, by using the same framework the project also tries to infer the effectiveness of these covid vacciness for young individuals using clinical data from EMA as well.
+
 ## Data
 
 Our data source consist in clinical data from the EMA for the following vaccines: 
